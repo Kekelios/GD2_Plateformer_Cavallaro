@@ -10,3 +10,5 @@ Ce qui ne marche (ou a refaire) dans le code : Degats de Laika et des monstres ;
 
 TDL potentielle pour la prochaine fois (selon le temps accorde, les difficultes et le travail a cote)
 Optimiser le code avec cours du 30/09 ; Rework Lvl tuto/1/2 ; Double saut ; Revoir widget ; meilleure TP + quand on reprend portail lvl 2 on arrive devant le portail lvl 1 ; Tyrolienne et boss pour finir le LVL 1 ; cinematiques de base (transitions et apres activation egnime) ; Systeme de munition (enum + GI comme le score) ; Caisses de munitions, vie, scrap, camera speciale WallJump ; Mettre une roue des armes (Repris d'un autre projet que j'avais fais) et pouvoir potentiellement changer d'arme.
+
+Edit : L'un des ordres fonctionnels pour réussir l'egnime est 1 - 3 - 5 (soit en bas a gauche, en haut a gauche, milieu) (il y a plusieurs solutions, mais c est la plus rapide) 
